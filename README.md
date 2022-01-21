@@ -1,4 +1,4 @@
-Feat : Added 'Amarjit' to Developer Community
+##Feat : Added 'Amarjit' to Developer Community
 
 <!--
 **Amarjit-Madhumalararungeethayan/Amarjit-Madhumalararungeethayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
