@@ -1,6 +1,6 @@
 ## Feat : Added 'Amarjit' to the Developer Community
 
-If you like my work, ping me. I've got tons of other private repositories 😉
+Cerca Trova
 
 Software Developer 
 <!--
